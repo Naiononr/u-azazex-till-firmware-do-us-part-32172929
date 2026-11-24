@@ -10,9 +10,9 @@ import os
 import tempfile
 
 VOW = (
-    "You are my favorite bug, the one I will never fix, "
+    "You are my favorite bug, the one I will never patch, "
     "and I vow to love you through every update, every crash, "
-    "and every low battery."
+    "and every low battery, even at 1%."
 )
 
 
